@@ -18,7 +18,7 @@ export const data = {
 
   about: {
     bio: [
-      "I'm a final-year Computer Science student at Sona College of Technology, graduating April 2026 with an 8.65 GPA and two Academic Excellence Awards. I build things that matter — from quantum-optimized hospital schedulers to AI-driven mental health platforms.",
+      "I'm a Computer Science graduate (2026) from Sona College of Technology, with an 8.65 GPA and two Academic Excellence Awards. I build things that matter — from quantum-optimized hospital schedulers to AI-driven mental health platforms.",
       "My work spans full-stack web development, IoT systems, and applied quantum computing. I thrive at the edges of disciplines — where software meets science.",
     ],
     languages: ["Tamil", "English", "Hindi", "Sanskrit", "Japanese (N4 certified)"],
