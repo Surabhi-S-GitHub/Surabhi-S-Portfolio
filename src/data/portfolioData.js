@@ -92,7 +92,7 @@ export const data = {
       featured: true,
       desc: "A multimodal mental health screening platform that analyzes speech, voice patterns, and emotion using LLM-powered personalized wellness support. Features adaptive assessments, doctor-assisted insights, and early private screening.",
       stack: ["Python", "Flask", "Groq API", "Llama 3.1", "Web Speech API", "Chart.js", "SQLite"],
-      github: "#",
+      github: "https://github.com/Surabhi-S-GitHub/Multilingual-Depression-Detection-System-Using-Speech-and-Voice-Analysis.git",
     },
     {
       id: 2,
@@ -105,7 +105,7 @@ export const data = {
       featured: false,
       desc: "A quantum-optimized hospital staff scheduler using QUBO modeling and Dynex SDK. Minimizes staffing costs while satisfying complex daily shift constraints — one of few real quantum computing applications in healthcare.",
       stack: ["QUBO", "Dynex SDK", "PyQUBO", "Dimod"],
-      github: "#",
+      github: "https://github.com/Surabhi-S-GitHub/Quantum_Mini_Project.git",
     },
     {
       id: 3,
@@ -118,7 +118,7 @@ export const data = {
       featured: false,
       desc: "An IoT system detecting CO₂ emissions from AC units with real-time temperature and humidity monitoring. Provides LED/buzzer alerts and uploads sensor data to ThingSpeak for remote cloud monitoring.",
       stack: ["ESP32", "MQ-135", "DHT22", "ThingSpeak", "Arduino C"],
-      github: "#",
+      github: "https://github.com/Surabhi-S-GitHub/Smart-CO-Emission-Level-Alert-System-.git",
     },
     {
       id: 4,
@@ -131,7 +131,7 @@ export const data = {
       featured: false,
       desc: "A full-stack e-commerce application with user authentication, shopping cart, and order management. Built end-to-end from DB schema to reactive frontend to understand complete system architecture.",
       stack: ["React", "Spring Boot", "MySQL"],
-      github: "#",
+      github: "https://github.com/Surabhi-S-GitHub/E-commerce-frontend.git",
     },
   ],
 
