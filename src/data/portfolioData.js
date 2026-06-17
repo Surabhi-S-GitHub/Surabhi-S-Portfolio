@@ -5,9 +5,9 @@ export const data = {
   email: "surabhi.subramaniam@gmail.com",
   phone: "+91 9385365304",
   location: "TN, India",
-  linkedin: "#",
-  github: "#",
-  portfolio: "#",
+  linkedin: "https://www.linkedin.com/in/surabhi-s-4315ba244/",
+  github: "https://github.com/Surabhi-S-GitHub",
+  portfolio: "https://surabhi-s-portfolio-ddus.vercel.app/",
 
   stats: [
     { val: "8.65", label: "GPA" },
