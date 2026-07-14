@@ -4,7 +4,7 @@ export const data = {
   tagline: "building at the intersection of code, cloud, and curiosity.",
   email: "surabhi.subramaniam@gmail.com",
   phone: "+91 9385365304",
-  location: "TN, India",
+  location: "Open to Relocation Worldwide",
   linkedin: "https://www.linkedin.com/in/surabhi-s-4315ba244/",
   github: "https://github.com/Surabhi-S-GitHub",
   portfolio: "https://surabhi-s-portfolio-ddus.vercel.app/",
