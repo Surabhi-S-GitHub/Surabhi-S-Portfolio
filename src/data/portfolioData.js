@@ -21,7 +21,7 @@ export const data = {
       "I'm a Computer Science graduate (2026) from Sona College of Technology, with an 8.65 GPA and two Academic Excellence Awards. I build things that matter — from quantum-optimized hospital schedulers to AI-driven mental health platforms.",
       "My work spans full-stack web development, IoT systems, and applied quantum computing. I thrive at the edges of disciplines — where software meets science.",
     ],
-    languages: ["Tamil", "English", "Hindi", "Sanskrit", "Japanese (N4 certified)"],
+    languages: ["Tamil", "English", "Hindi", "Sanskrit", "Japanese"],
   },
 
   education: {
@@ -141,6 +141,6 @@ export const data = {
     { logo: "GCP", logoColor: "gcp",     name: "Google Cloud Certifications",   issuer: "Google Cloud Platform",  status: "Certified" },
     { logo: "⚛",   logoColor: "quantum", name: "Applied Quantum Computing",     issuer: "Dynex Moonshots, Europe",status: "Certified" },
     { logo: "INF", logoColor: "infosys", name: "GenAI & Angular",               issuer: "Infosys",                status: "Certified" },
-    { logo: "日",   logoColor: "jp",      name: "Japanese Language Proficiency", issuer: "JLPT — NAT N4, N3 Trained", status: "Certified" },
+    { logo: "日",   logoColor: "jp",      name: "Japanese Language Proficiency", issuer: "JLPT N3", status: "Certified" },
   ],
 };
